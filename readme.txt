@@ -1,16 +1,19 @@
-vTeam a Corporate Multipurpose Free Bootstrap Responsive template
--------
+Free Responsive Bootstrap Template
 
-vTeam – a Corporate Business multipurpose HTML5 Template with modern looking homepage layout, portfolio layout, about us, contact and services pages, full responsive, fontawesome modern flat icons. Developed on bootstrap HTML5 and CSS3 framework. Whether you want to create a business, corporate, creative or personal website, HTML5 template leads you to create the right homepage
+Basic is a free HTML5/CSS3 website template for multi-purpose requirment, This is well clean and clear html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework, fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose requirments like business, consultancy, agency, personal portfolio, profile, mobile website and start-up company.
 
+Key features
+-------------
+Twitter Bootstrap 3.3.1
+Clean & Developer-friendly HTML5 and CSS3 code
+100% Responsive Layout Design 
+Multi-purpose theme
+Google Fonts Support
+Font Awesome 
+Smooth Scrolling 
+Fully Customizable
+Contact Form
 
-Features :
---------
-=> Easy to use, Heigh quality coded HTML5 and CSS3.
-=> Multi device compatibility
-=> Responsive design with bootstrap
-=> premium quality template
-=> Fontawesome
 
 Credits :
 -------
@@ -18,7 +21,12 @@ Credits :
 => Photos used in template: **Unsplash** - http://unsplash.com
 => For more free web themes: http://webthemez.com
 => Framework : http://getbootstrap.com
+=> For more help: webthemez@gmail.com
+=> Do not remove the back-link from site. If you want remove back-link please donate some bucks.
 
 License :
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+
+Note:
+All images user here is for demo purpose only, we are not responsible for any copyrights.
